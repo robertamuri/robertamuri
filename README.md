@@ -8,7 +8,7 @@ I'm a Ph.D. Student based in Bologna, Italy. I have a passion for developing adv
 - 👯 I’m looking to collaborate on projects involving **data analysis**, **AI-driven applications**, and **environmental economics**.
 - 🤔 I’m looking for help with **scaling algorithms for large datasets** and **measuring the impact of climate policies**.
 - 💬 Ask me about **algorithm design** and **environmental policy evaluation**.
-- 📫 How to reach me: [roberta.muri2@unibo.it](mailto:roberta.muri2@unibo.it)
+- 📫 How to reach me: [roberta.muri2@unibo.it](mailto:roberta.muri2@unibo.it) or [roberta.muri@prometeia.it](mailto:roberta.muri@prometeia.it)
 - ⚡ Fun fact: I love discovering new spots in cities and trying out different cuisines. I thrive in environments with warm and nice people!
 
 ## 🛠️ Technologies & Tools
