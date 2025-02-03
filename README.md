@@ -1,7 +1,7 @@
 # Hi there, I'm Roberta 👋
 
 ## 🚀 About Me
-I'm a Ph.D. Student based in Bologna, Italy. I have a passion for developing advanced selection algorithms that optimize decision-making processes and evaluating environmental and climate policies through a **local lens**. Currently, I'm focused on enhancing algorithmic efficiency and exploring innovative applications in real-world scenarios, particularly within environmental policy evaluation.
+I'm a Ph.D. Student based in Bologna, Italy. I have a passion for developing advanced selection algorithms that optimize decision-making processes and evaluating environmental and climate policies through a **local lens**. Currently, I'm focused on exploring innovative applications in real-world scenarios, particularly within environmental policy evaluation.
 
 - 🔭 I’m currently working on a **Selection Algorithm** project aimed at improving data-driven decision-making and **Policy Evaluation** for environmental and climate initiatives.
 - 🌱 I’m learning **Machine Learning** and **Environmental Policy Analysis**.
